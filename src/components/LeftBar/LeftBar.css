@@ -1,0 +1,8 @@
+.LeftBar {
+  display: inline-block;
+  background-color: #b3d9ff;
+  width: 25%;
+  padding: 0.5em;
+  overflow: scroll;
+  height: 95vh;
+}

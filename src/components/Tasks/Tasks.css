@@ -1,0 +1,11 @@
+.tasks {
+  display: inline-block;
+  width: 70%;
+  height: 95vh;
+  overflow: scroll;
+}
+.tasks-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

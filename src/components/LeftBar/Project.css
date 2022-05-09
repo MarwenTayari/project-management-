@@ -1,0 +1,17 @@
+.container-project {
+  padding: 10px;
+  width: 90%;
+  background-color: #d9d9d9;
+  margin: 5px;
+  border: 1px white solid;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.options {
+  float: right;
+}

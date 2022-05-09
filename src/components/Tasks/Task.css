@@ -1,0 +1,24 @@
+.container {
+  background-color: #cce6ff;
+  border-radius: 1em;
+  border: 1px white solid;
+  padding: 10px;
+  width: 46%;
+  margin: 5px;
+}
+.header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.options {
+  float: right;
+}
+.delete {
+  cursor: pointer;
+}
+.edit {
+  cursor: pointer;
+}
