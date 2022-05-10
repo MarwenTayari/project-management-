@@ -21,7 +21,7 @@ User (Admin or User) .
 * 12 - Develop CI / CD pipeline.
 
 Design of the application :  
-
+![conception app](https://user-images.githubusercontent.com/74980131/167602462-5ee0da8e-c8fd-40c6-9df3-5fb75ec43a15.PNG)
 
 
 # Getting Started with Create React App
