@@ -8,7 +8,7 @@ Steps for App developement :
 * 5 - User can edit tasks by project 
 
 * 6 - create a database : 
-- Three colloctions needed : 
+- Three colloctions needed :  
 Projects ,  
 Tasks , 
 User (Admin or User) .
