@@ -1,6 +1,6 @@
 # Project Management App : 
 
-Application Development Steps: : 
+Application Development Steps (Steps to follow): 
 * 1 - Init react app 
 * 2 - Create main page (List of project & List of tasks ) 
 * 3 - Create login page (register & login )
