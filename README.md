@@ -20,7 +20,7 @@ User (Admin or User) .
 * 11 - Deploy the app (Front + Backend)
 * 12 - Develop CI / CD pipeline.
 
-Design of the application : 
+Design of the application :  
 
 
 
