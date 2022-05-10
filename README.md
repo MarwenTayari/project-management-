@@ -1,3 +1,28 @@
+# Project Management App 
+Steps for App developement : 
+1 - Init react app (Done) 
+2 - create main page (List of project & List of tasks ) 
+3 - create login page (register & login )
+4 - Manager can edit projects & tasks 
+5 - User can edit tasks by project 
+
+6 - create a database : 
+- Three colloctions needed : 
+* Projects 
+* Tasks 
+* User (Admin or User) 
+7 - init node js project (Backend)
+8 - create CRUDS based on developement of APIS + test (postman) 
+9 - deploy the backend 
+
+10 - Consome the APIS (FrontEnd) + test 
+11 - Deploy the app (Front + Backend)
+12 - Develop CI / CD pipeline.
+
+Design of the application : 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
