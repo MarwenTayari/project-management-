@@ -8,10 +8,7 @@ Steps for App developement :
 * 5 - User can edit tasks by project 
 
 * 6 - create a database : 
-- Three colloctions needed :  
-Projects ,  
-Tasks , 
-User (Admin or User) .
+- Three colloctions needed :  Projects ,  Tasks , User (Admin or User) .
 * 7 - init node js project (Backend)
 * 8 - create CRUDS based on developement of APIS + test (postman) 
 * 9 - deploy the backend 
