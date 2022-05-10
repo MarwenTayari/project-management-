@@ -5,7 +5,7 @@ Application Development Steps: :
 * 2 - Create main page (List of project & List of tasks ) 
 * 3 - Create login page (register & login )
 * 4 - Develop the actions of Manager (He can edit projects & tasks) 
-* 5 - Develop the actions User (He can edit tasks by project) 
+* 5 - Develop the actions of User (He can edit & complete tasks by project) 
 
 * 6 - Create a database : 
 - Three colloctions needed :  Projects ,  Tasks , User (Admin or User) .
@@ -14,7 +14,7 @@ Application Development Steps: :
 * 9 - Deploy the backend 
 
 * 10 - Consome the APIS (FrontEnd) + test 
-* 11 - Deploy the app (Front + Backend)
+* 11 - Deploy the app (Frontend + Backend)
 * 12 - Develop CI / CD pipeline.
 
 Design of the application :  
