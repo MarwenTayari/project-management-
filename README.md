@@ -2,16 +2,16 @@
 
 Application Development Steps: : 
 * 1 - Init react app 
-* 2 - create main page (List of project & List of tasks ) 
-* 3 - create login page (register & login )
+* 2 - Create main page (List of project & List of tasks ) 
+* 3 - Create login page (register & login )
 * 4 - Develop the actions of Manager (He can edit projects & tasks) 
-* 5 - Develop the actions User can (He can edit tasks by project) 
+* 5 - Develop the actions User (He can edit tasks by project) 
 
-* 6 - create a database : 
+* 6 - Create a database : 
 - Three colloctions needed :  Projects ,  Tasks , User (Admin or User) .
-* 7 - init node js project (Backend)
+* 7 - Init node js project (Backend)
 * 8 - create CRUDs based on developement of REST APIS + test (postman) 
-* 9 - deploy the backend 
+* 9 - Deploy the backend 
 
 * 10 - Consome the APIS (FrontEnd) + test 
 * 11 - Deploy the app (Front + Backend)
